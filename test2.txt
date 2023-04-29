@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7294-3E35
+
+ Directory of C:\Users\42the\Documents\HomeworkThree
+
+04/29/2023  12:12 AM    <DIR>          .
+04/29/2023  12:12 AM    <DIR>          ..
+04/28/2023  11:31 PM                35 index.html
+04/28/2023  11:29 PM                 8 test1.txt
+04/29/2023  12:12 AM                 0 test2.txt
+               3 File(s)             43 bytes
+               2 Dir(s)  18,852,319,232 bytes free
